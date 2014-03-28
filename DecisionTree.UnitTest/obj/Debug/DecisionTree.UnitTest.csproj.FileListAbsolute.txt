@@ -1,0 +1,9 @@
+C:\Users\John\Dropbox\github\DecisionTree\DecisionTree.UnitTest\bin\Debug\DecisionTree.UnitTest.dll
+C:\Users\John\Dropbox\github\DecisionTree\DecisionTree.UnitTest\bin\Debug\DecisionTree.UnitTest.pdb
+C:\Users\John\Dropbox\github\DecisionTree\DecisionTree.UnitTest\bin\Debug\xunit.dll
+C:\Users\John\Dropbox\github\DecisionTree\DecisionTree.UnitTest\bin\Debug\xunit.xml
+C:\Users\John\Dropbox\github\DecisionTree\DecisionTree.UnitTest\obj\Debug\DecisionTree.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\John\Dropbox\github\DecisionTree\DecisionTree.UnitTest\obj\Debug\DecisionTree.UnitTest.dll
+C:\Users\John\Dropbox\github\DecisionTree\DecisionTree.UnitTest\obj\Debug\DecisionTree.UnitTest.pdb
+C:\Users\John\Dropbox\github\DecisionTree\DecisionTree.UnitTest\bin\Debug\DecisionTree.dll
+C:\Users\John\Dropbox\github\DecisionTree\DecisionTree.UnitTest\bin\Debug\DecisionTree.pdb

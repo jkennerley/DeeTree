@@ -1,0 +1,12 @@
+C:\Users\John\Dropbox\github\DecisionTree\DecisionTreeTasks\obj\Debug\DecisionTreeTasks.csprojResolveAssemblyReference.cache
+C:\Users\John\Dropbox\github\DecisionTree\DecisionTreeTasks\bin\Debug\DecisionTreeTasks.exe.config
+C:\Users\John\Dropbox\github\DecisionTree\DecisionTreeTasks\bin\Debug\DecisionTreeTasks.exe
+C:\Users\John\Dropbox\github\DecisionTree\DecisionTreeTasks\bin\Debug\DecisionTreeTasks.pdb
+C:\Users\John\Dropbox\github\DecisionTree\DecisionTreeTasks\bin\Debug\DecisionTree.dll
+C:\Users\John\Dropbox\github\DecisionTree\DecisionTreeTasks\bin\Debug\DecisionTree.pdb
+C:\Users\John\Dropbox\github\DecisionTree\DecisionTreeTasks\obj\Debug\DecisionTreeTasks.exe
+C:\Users\John\Dropbox\github\DecisionTree\DecisionTreeTasks\obj\Debug\DecisionTreeTasks.pdb
+C:\Users\John\Dropbox\github\DecisionTree\DecisionTreeTasks\bin\Debug\DecisionTree.UnitTest.dll
+C:\Users\John\Dropbox\github\DecisionTree\DecisionTreeTasks\bin\Debug\xunit.dll
+C:\Users\John\Dropbox\github\DecisionTree\DecisionTreeTasks\bin\Debug\DecisionTree.UnitTest.pdb
+C:\Users\John\Dropbox\github\DecisionTree\DecisionTreeTasks\bin\Debug\xunit.xml

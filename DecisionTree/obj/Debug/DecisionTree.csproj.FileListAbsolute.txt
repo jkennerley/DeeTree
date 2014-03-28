@@ -1,0 +1,7 @@
+C:\Users\John\Dropbox\github\DecisionTree\DecisionTree\bin\Debug\DecisionTree.dll
+C:\Users\John\Dropbox\github\DecisionTree\DecisionTree\bin\Debug\DecisionTree.pdb
+C:\Users\John\Dropbox\github\DecisionTree\DecisionTree\obj\Debug\DecisionTree.dll
+C:\Users\John\Dropbox\github\DecisionTree\DecisionTree\obj\Debug\DecisionTree.pdb
+C:\Users\John\Dropbox\github\DecisionTree\DecisionTree\obj\Debug\DecisionTree.csprojResolveAssemblyReference.cache
+C:\Users\John\Dropbox\github\DecisionTree\DecisionTree\bin\Debug\xunit.dll
+C:\Users\John\Dropbox\github\DecisionTree\DecisionTree\bin\Debug\xunit.xml
