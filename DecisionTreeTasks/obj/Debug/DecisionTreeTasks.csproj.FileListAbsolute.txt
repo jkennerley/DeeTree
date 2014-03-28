@@ -10,3 +10,6 @@ C:\Users\John\Dropbox\github\DecisionTree\DecisionTreeTasks\bin\Debug\DecisionTr
 C:\Users\John\Dropbox\github\DecisionTree\DecisionTreeTasks\bin\Debug\xunit.dll
 C:\Users\John\Dropbox\github\DecisionTree\DecisionTreeTasks\bin\Debug\DecisionTree.UnitTest.pdb
 C:\Users\John\Dropbox\github\DecisionTree\DecisionTreeTasks\bin\Debug\xunit.xml
+C:\Users\John\Dropbox\github\DeeTree\DecisionTreeTasks\bin\Debug\DecisionTreeTasks.exe.config
+C:\Users\John\Dropbox\github\DeeTree\DecisionTreeTasks\obj\Debug\DecisionTreeTasks.exe
+C:\Users\John\Dropbox\github\DeeTree\DecisionTreeTasks\obj\Debug\DecisionTreeTasks.pdb
