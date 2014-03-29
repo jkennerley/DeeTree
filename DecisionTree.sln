@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecisionTreeTasks", "Decisi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecisionTree.UnitTest", "DecisionTree.UnitTest\DecisionTree.UnitTest.csproj", "{C52A3568-7B08-4041-B7AA-C9079710DEEB}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FeeTree", "FeeTree\FeeTree.fsproj", "{BEC69120-0736-497B-BA1F-E669525CD6CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C52A3568-7B08-4041-B7AA-C9079710DEEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C52A3568-7B08-4041-B7AA-C9079710DEEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C52A3568-7B08-4041-B7AA-C9079710DEEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEC69120-0736-497B-BA1F-E669525CD6CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEC69120-0736-497B-BA1F-E669525CD6CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEC69120-0736-497B-BA1F-E669525CD6CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEC69120-0736-497B-BA1F-E669525CD6CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

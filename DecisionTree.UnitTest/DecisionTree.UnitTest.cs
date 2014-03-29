@@ -5,7 +5,7 @@ namespace DeeTreeSpec
     using Xunit;
 
     [Trait("given CTB Assessment when Nationality <- UK", "")]
-    public class CtbAssessmentSpec
+    public class given_CTB_Assessment_when_Nationality_eq_UK
     {
         private IDecision _q;
 
@@ -13,7 +13,7 @@ namespace DeeTreeSpec
 
         private IDecision nxt;
 
-        public CtbAssessmentSpec()
+        public given_CTB_Assessment_when_Nationality_eq_UK()
         {
             // get a decisionTree with lambdas...
             _q = QuestionnaireFactory.GetCtbQuestionnaire();
@@ -42,13 +42,13 @@ namespace DeeTreeSpec
     using Xunit;
 
     [Trait("given CTB Assessment when Nationality <- UK and UkPart <- England", "")]
-    public class CtbAssessment2Spec
+    public class given_CTB_Assessment_when_Nationality_eq_UK_and_UkPart_eq_England
     {
         private IDecision _q;
 
         private IDecision nxt;
 
-        public CtbAssessment2Spec()
+        public given_CTB_Assessment_when_Nationality_eq_UK_and_UkPart_eq_England()
         {
             // get a decisionTree with lambdas...
             _q = QuestionnaireFactory.GetCtbQuestionnaire();

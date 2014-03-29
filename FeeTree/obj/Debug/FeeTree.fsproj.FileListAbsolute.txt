@@ -1,0 +1,9 @@
+C:\Users\John\Dropbox\github\DeeTree\FeeTree\bin\Debug\FeeTree.XML
+C:\Users\John\Dropbox\github\DeeTree\FeeTree\bin\Debug\FeeTree.dll
+C:\Users\John\Dropbox\github\DeeTree\FeeTree\bin\Debug\FeeTree.pdb
+C:\Users\John\Dropbox\github\DeeTree\FeeTree\bin\Debug\FSharp.Core.dll
+C:\Users\John\Dropbox\github\DeeTree\FeeTree\bin\Debug\xunit.dll
+C:\Users\John\Dropbox\github\DeeTree\FeeTree\bin\Debug\FSharp.Core.xml
+C:\Users\John\Dropbox\github\DeeTree\FeeTree\bin\Debug\xunit.xml
+C:\Users\John\Dropbox\github\DeeTree\FeeTree\obj\Debug\FeeTree.dll
+C:\Users\John\Dropbox\github\DeeTree\FeeTree\obj\Debug\FeeTree.pdb
