@@ -1,12 +1,13 @@
 DeeTree
 =======
 
-DeeTree is an example of doing assessments and making calculations with c# decision trees.
+DeeTree is an example of decision trees using C# and F#. 
+There  are some exmaples assessments and making calculations.
 
 It uses template method pattern, with a Action<T> property to bypass virtual overrides. 
-It can also do cost calculations, have more than to decision branches, print explanations of it's decision routing post the assessment.
+As well as cost calculations and having more than 2 branches from each decision node, explanations of decision routing can be obtained after the client assessment has competled.
+
 There are 2 console demos and some simple xunit bdd tests.
-...
 
 
 
